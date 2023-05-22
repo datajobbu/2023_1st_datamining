@@ -1,7 +1,7 @@
 # 3조 - 재비산먼지 분석을 통한 미세먼지 안심 버스정류장 설립 방안 연구
 ---
 
-!(README_img/title.png)
+!(./README_img/title.png)
 
 ## 프로젝트 내용
 ### clustering
